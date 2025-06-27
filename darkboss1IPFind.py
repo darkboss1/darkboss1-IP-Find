@@ -32,7 +32,7 @@ class IPAddressLocator:
         
          IP Address locator
         
-        """ + self.R + """>>""" + self.Y + """----""" + self.CY + """ Author - Deadpool2000 """ + self.Y + """----""" + self.R + """<<""")
+        """ + self.R + """>>""" + self.Y + """----""" + self.CY + """ Author - darkboss1 """ + self.Y + """----""" + self.R + """<<""")
 
     def finder(self, u):
         try:
