@@ -22,7 +22,7 @@ python3 darkboss1IPFind.py
 ```
 ### 2) For GUI Mode
 ```bash
-python3 python3 darkboss1IPFind.py --gui
+python3 darkboss1IPFind.py --gui
 ```
 
 ### Open Browser and goto this link - http://127.0.0.1:5000/
